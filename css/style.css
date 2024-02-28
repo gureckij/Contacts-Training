@@ -95,4 +95,6 @@ body {
     /* Задайте стили ссылкам */
     display: block;
     background-color: #ffffff;
+    width: 60px;
+    height: 60px;
 }
