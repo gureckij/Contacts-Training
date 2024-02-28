@@ -60,6 +60,9 @@ body {
 
     /* Обнулите внешние отступы */
     margin: 0;
+
+    /* Установите нижний отступ */
+    margin-bottom: 5px;
 }
 
 .contact-item address {
