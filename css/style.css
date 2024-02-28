@@ -94,4 +94,5 @@ body {
 .social-item a {
     /* Задайте стили ссылкам */
     display: block;
+    background-color: #ffffff;
 }
