@@ -5,3 +5,22 @@ body {
     font-size: 20px;
     line-height: 27px;
 }
+
+.contacts h2 {
+    font-size: 40px;
+    line-height: 66px;
+}
+
+.contact-item h3 {
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.contact-item address {
+    font-style: normal;
+}
+
+.contact-item a {
+    color: #2d2829;
+    text-decoration: none;
+}
