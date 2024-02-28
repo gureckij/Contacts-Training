@@ -49,6 +49,11 @@ body {
     list-style: none;
 }
 
+.contact-item {
+    /* Установите нижний отступ */
+    margin-bottom: 20px;
+}
+
 .contact-item h3 {
     font-size: 20px;
     line-height: 27px;
