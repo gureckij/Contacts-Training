@@ -79,6 +79,11 @@ body {
     color: #2d2829b3;
 }
 
+.contact-item a:active {
+    /* Добавьте стили */
+    color: #2d282980;
+}
+
 .social-list {
     /* Сбросьте стили списка по умолчанию */
     margin: 0;
