@@ -101,3 +101,8 @@ body {
     height: 60px;
     border-radius: 50%;
 }
+
+.social-item a:hover {
+    /* Добавьте стили */
+    opacity: 0.7;
+}
