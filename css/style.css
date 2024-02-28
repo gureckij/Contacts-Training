@@ -4,6 +4,13 @@ body {
     background-color: #fbebea;
     font-size: 20px;
     line-height: 27px;
+    margin: 0;
+}
+
+.main-content {
+    margin: 0 auto;
+    width: 1140px;
+    padding: 0 70px;
 }
 
 .contacts h2 {
