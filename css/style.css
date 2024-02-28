@@ -16,6 +16,16 @@ body {
 .contacts {
     padding-top: 100px;
     padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contacts-content {
+    width: 340px;
+}
+
+.contacts-map {
+    width: 760px;
 }
 
 .contacts h2 {
