@@ -74,6 +74,11 @@ body {
     text-decoration: none;
 }
 
+.contact-item a:hover {
+    /* Добавьте стили */
+    color: #2d2829b3;
+}
+
 .social-list {
     /* Сбросьте стили списка по умолчанию */
     margin: 0;
