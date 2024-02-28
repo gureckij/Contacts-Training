@@ -22,6 +22,9 @@ body {
 
 .contacts-content {
     width: 340px;
+
+    /* Установите значение верхнего поля */
+    padding-top: 20px;
 }
 
 .contacts-map {
