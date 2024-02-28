@@ -36,6 +36,13 @@ body {
     margin: 0;
 }
 
+.contact-list {
+    /* Сбросьте стили списка по умолчанию */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .contact-item h3 {
     font-size: 20px;
     line-height: 27px;
