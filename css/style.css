@@ -90,3 +90,8 @@ body {
     /* Установите отступ справа */
     margin-right: 25px;
 }
+
+.social-item a {
+    /* Задайте стили ссылкам */
+    display: block;
+}
