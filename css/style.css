@@ -31,6 +31,9 @@ body {
 .contacts h2 {
     font-size: 40px;
     line-height: 66px;
+
+    /* Обнулите внешние отступы */
+    margin: 0;
 }
 
 .contact-item h3 {
